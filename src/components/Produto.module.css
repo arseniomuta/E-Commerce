@@ -1,0 +1,23 @@
+.produto {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.produto img {
+  margin-bottom: 2rem;
+}
+
+.preco{
+  font-family: Arial, Helvetica ,sans-serif;
+  background: #91fb5d;
+  color: #017e01;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.descricao{
+  font-right: 1;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
